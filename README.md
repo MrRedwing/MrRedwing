@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrRedwing
 - 👀 I’m interested in React web development, Python, and Java. 
-- 💪 HTML and CSS are real a programming language.
+- 💪 HTML and CSS are real programming languages.
 <!--- - 🌱 I’m currently learning ... --->
 <!--- - 💞️ I’m looking to collaborate on ... --->
 <!--- - 📫 How to reach me ... --->
